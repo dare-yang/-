@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+em,i{
+    font-style: normal;
+}
+#wrap{
+    background: url("../images/2.jpg") no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Tahoma,Arial,Roboto,"Droid Sans","Helvetica Neue","Droid sans Fallback","Heiti SC",sans-serif;
+}
+li{
+    list-style: none;
+}
+img{
+    border:0;
+    vertical-align: middle;
+}
+button{
+    cursor: pointer;
+}
+a{
+    color: #666;
+    text-decoration: none;
+}
+a:hover{
+    color:#c81623;
+}
+
